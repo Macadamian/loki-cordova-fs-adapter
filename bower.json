@@ -1,0 +1,4 @@
+{
+  "name": "loki-cordova-fs-adapter",
+  "main": ["bin/loki-cordova-fs-adapter.js"]
+}
